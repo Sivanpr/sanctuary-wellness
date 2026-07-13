@@ -1,6 +1,0 @@
-allowBuilds:
-  sharp: set this to true or false
-  unrs-resolver: set this to true or false
-minimumReleaseAgeExclude:
-  - '@wix/auto_sdk_members_authentication@1.0.44'
-  - '@wix/members@1.0.486'
